@@ -4,6 +4,15 @@
 
 ### 使用方法
 
+####改动：测速程序下载地址：https://www.speedtest.net/apps/cli
+
+
+```bash
+bash <(curl -Lso- https://raw.githubusercontent.com/AoThen/superspeed/master/superspeed.sh)
+```
+
+---
+
 主要：
 
 ```bash
